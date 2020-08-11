@@ -1,5 +1,7 @@
 from typing import Optional
 
+from addict import Dict
+
 from .cf_origin import CfOrigin
 
 
