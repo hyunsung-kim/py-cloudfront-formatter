@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="log.jpg" width="400" />
+    <img src="log.jpg" width="1000" />
 </p>
 
 # py-cloudfront-formatter
