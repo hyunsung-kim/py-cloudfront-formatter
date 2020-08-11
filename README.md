@@ -33,7 +33,7 @@ logger.info('good', extra=cf_event)
 
 ## TODO
 - [ ] 테스트 코드 작성
-- [ ] logging의 record 추가 
+- [ ] log record 중에 필요한 부분으 추가하기 e.g) exc_info=True
 
 
 ## Reference
