@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="log.jpg" width="400" />
+    <img src="log.jpg" width="1000" />
 </p>
 
 # py-cloudfront-formatter
@@ -30,6 +30,10 @@ logger.propagate = False
 
 logger.info('good', extra=cf_event)
 ```
+
+## TODO
+- [ ] 테스트 코드 작성
+- [ ] log record 중에 필요한 부분으 추가하기 e.g) exc_info=True
 
 
 ## Reference
