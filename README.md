@@ -31,6 +31,10 @@ logger.propagate = False
 logger.info('good', extra=cf_event)
 ```
 
+## TODO
+- [ ] 테스트 코드 작성
+- [ ] logging의 record 추가 
+
 
 ## Reference
 - [logging-cookbook](https://docs.python.org/ko/3/howto/logging-cookbook.html#)
